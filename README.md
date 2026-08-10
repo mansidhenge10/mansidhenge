@@ -12,21 +12,20 @@ Building practical AI applications and continuously learning how to design, deve
 
 ---
 
-## 🤖 About Me
 
-🎓 MCA graduate with a strong interest in **Artificial Intelligence and Machine Learning**.
+## 📄 Resume
 
-🐍 Working with **Python** to build practical AI and machine learning applications.
+<p align="center">
 
-🧠 Exploring **Machine Learning, Natural Language Processing, and Generative AI**.
+<a href="#">
+<img src="https://img.shields.io/badge/View_My_Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
 
-🤖 Currently developing projects involving **LLMs, NLP, embeddings, and AI-powered applications**.
+</p>
 
-💡 Interested in solving real-world problems through practical AI solutions.
-
-🎯 **Career Goal:** To work as an **AI Engineer** and build reliable, useful, and scalable AI applications.
-
----
+<p align="center">
+Explore my experience, technical skills, projects, education, and certifications.
+</p>
 
 ## 🛠️ Tech Stack
 
