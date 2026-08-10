@@ -161,7 +161,7 @@ Example:
 * 🏅 **Certification Name** — Platform
 * 🏅 **Certification Name** — Platform
 
-
+---
 ## 📫 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/mansi-dhenge-69743a260">
