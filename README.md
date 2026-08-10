@@ -41,44 +41,35 @@ Explore my experience, technical skills, projects, education, and certifications
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming & Data
+### 🌐 Full Stack Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,nodejs,express,fastapi,mongodb,postgres&perline=10"/>
 </p>
 
-### 🧠 AI & Machine Learning
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
+### 🤖 AI & Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch&perline=8"/>
 </p>
 
-**Core Skills:**
+<p align="center">
 
-* Machine Learning
-* Natural Language Processing
-* Text Processing
-* Feature Engineering
-* Model Evaluation
-* Data Analysis
-* Generative AI
-* Prompt Engineering
+<img src="https://img.shields.io/badge/Groq_API-Llama_3.3-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-AI_Framework-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-LLM-orange?style=for-the-badge"/>
 
-### 🤖 Generative AI & LLMs
-
-* Large Language Models (LLMs)
-* Prompt Engineering
-* Embeddings
-* Semantic Similarity
-* Retrieval-Augmented Generation (RAG)
-* AI Application Development
-
-### 🌐 Development & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,react,tailwind,git,github,vscode,postman" />
 </p>
 
+---
+
+### ⚙️ Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,railway&perline=8"/>
+</p>
 ---
 
 ## 📚 Currently Learning
