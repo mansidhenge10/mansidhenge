@@ -64,12 +64,9 @@ Explore my experience, technical skills, projects, education, and certifications
 </p>
 
 ---
+🌐 Development & Tools
 
-### ⚙️ Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,railway&perline=8"/>
-</p>
+<p> <img src="https://skillicons.dev/icons?i=fastapi,react,tailwind,git,github,vscode,postman" /> </p>
 ---
 
 ## 📚 Currently Learning
