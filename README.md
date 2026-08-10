@@ -161,7 +161,6 @@ Example:
 * 🏅 **Certification Name** — Platform
 * 🏅 **Certification Name** — Platform
 
----
 
 ## 📫 Connect With Me
 <p align="center">
@@ -177,7 +176,7 @@ Example:
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 </p>
----
+
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile!
