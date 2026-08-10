@@ -193,17 +193,17 @@ Example:
 
 ## 📫 Connect With Me
 
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/mansi-dhenge-69743a260">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+&nbsp;&nbsp;
+<a href="https://github.com/riturajlabs">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
-
-</p>
+&nbsp;&nbsp;
+<a href="mailto:mansidhenge10@gmail.com.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
 
 ---
 
