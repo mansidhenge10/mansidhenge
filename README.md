@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:2563EB&height=180&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=MANSI%20DHENGE&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 </p>
-
-<h1 align="center">Hi 👋, I'm Mansi Dhenge</h1>
 
 <h3 align="center">
 AI Engineer | Python | Machine Learning | NLP | Generative AI
