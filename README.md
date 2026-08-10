@@ -178,14 +178,19 @@ Example:
 </a>
 </p>
 ---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+</h3>
+
 <p align="center">
-  <b>💡 Learn • Build • Improve • Repeat 🚀</b>
+Building • Learning • Growing toward becoming an AI Engineer 🚀
 </p>
 
 <p align="center">
-  Thanks for visiting my profile!
+If you like my work, consider starring my repositories.
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:2563EB&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:2563EB&height=120&section=footer" width="100%"/>
+
 </p>
