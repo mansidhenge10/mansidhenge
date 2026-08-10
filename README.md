@@ -163,15 +163,8 @@ Example:
 
 ---
 
-
-
----
-
-
----
-
 ## 📫 Connect With Me
-
+<p align="center">
 <a href="https://www.linkedin.com/in/mansi-dhenge-69743a260">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
@@ -183,7 +176,7 @@ Example:
 <a href="mailto:mansidhenge10@gmail.com.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
-
+</p>
 ---
 
 <p align="center">
