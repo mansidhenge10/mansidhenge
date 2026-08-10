@@ -177,8 +177,6 @@ Example:
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 </p>
-```
-
 ---
 <p align="center">
   <b>💡 Learn • Build • Improve • Repeat 🚀</b>
