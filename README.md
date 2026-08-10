@@ -168,7 +168,7 @@ Example:
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/riturajlabs">
+<a href="https://github.com/mansidhenge10">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 &nbsp;&nbsp;
