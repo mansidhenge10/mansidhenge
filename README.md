@@ -67,7 +67,7 @@ Explore my experience, technical skills, projects, education, and certifications
 🌐 Development & Tools
 
 <p> <img src="https://skillicons.dev/icons?i=fastapi,react,tailwind,git,github,vscode,postman" /> </p>
----
+
 
 ## 📚 Currently Learning
 
