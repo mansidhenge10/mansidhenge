@@ -71,16 +71,16 @@ Explore my experience, technical skills, projects, education, and certifications
 
 ## 📚 Currently Learning
 
-🔄 Advanced Machine Learning
-🔄 Natural Language Processing
-🔄 Deep Learning
-🔄 Generative AI
-🔄 Large Language Models
-🔄 RAG Applications
-🔄 AI Agents
-🔄 FastAPI & AI APIs
-🔄 AI Application Deployment
-
+- ✅ MERN Stack
+- ✅ Advanced Python
+- ✅ Data Structures & Algorithms
+- ✅ Object-Oriented Programming
+- 🔄 Machine Learning
+- 🔄 Deep Learning
+- 🔄 PyTorch
+- 🔄 Generative AI
+- 🔄 RAG & AI Agents
+- 🔄 MLOps
 ---
 
 ## 🚀 Featured Projects
