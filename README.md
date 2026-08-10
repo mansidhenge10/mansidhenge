@@ -123,7 +123,7 @@ A document-based AI application designed to answer user questions using document
 
 ## 🎯 My AI Engineering Roadmap
 
-text
+```text
 Python
    ↓
 Data Analysis
