@@ -166,11 +166,22 @@ Example:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=riturajlabs&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=riturajlabs&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=riturajlabs&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ## 📈 Most Used Languages
 
