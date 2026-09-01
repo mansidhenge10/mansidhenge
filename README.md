@@ -85,37 +85,12 @@ Explore my experience, technical skills, projects, education, and certifications
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Study Assistant
-
-An AI-powered study assistant designed to help students understand academic concepts and interact with educational content.
-
-**Focus:**
-
-`Python` `NLP` `Machine Learning` `Generative AI` `LLMs`
-
+01. Auto Code Reviewer
+AI-powered code review application that analyzes source code, detects potential issues, explains errors, and provides improvement suggestions using LLMs, NLP, Hugging Face, and FastAPI.
 🔗 **Repository:** Coming Soon
 
----
-
-### 📄 AI Resume Analyzer
-
-An AI-based application focused on analyzing resumes using Natural Language Processing and semantic similarity techniques.
-
-**Focus:**
-
-`Python` `NLP` `Embeddings` `Semantic Similarity` `Machine Learning`
-
-🔗 **Repository:** Coming Soon
-
----
-
-### 💬 RAG Document Assistant
-
-A document-based AI application designed to answer user questions using document retrieval and Large Language Models.
-
-**Focus:**
-
-`Python` `LLMs` `RAG` `Embeddings` `Vector Search`
+3. AI Interview Mistake Analyzer
+AI-powered interview preparation tool that analyzes text and voice answers using Whisper, NLP, TF-IDF, similarity analysis, concept coverage, and Llama 3.2 to provide actionable interview feedback.
 
 🔗 **Repository:** Coming Soon
 
