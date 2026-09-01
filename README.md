@@ -131,9 +131,7 @@ AI Engineer 🚀
 
 Example:
 
-* 🏅 **Certification Name** — Platform
-* 🏅 **Certification Name** — Platform
-* 🏅 **Certification Name** — Platform
+* 🏅 **AI Fundamentals: Foundations for Understanding AI** — IBM SkillsBuild
 
 ---
 ## 📫 Connect With Me
