@@ -127,11 +127,8 @@ AI Engineer 🚀
 
 ## 🏆 Certifications
 
-*Add your verified certifications here.*
-
-Example:
-
 * 🏅 **AI Fundamentals: Foundations for Understanding AI** — IBM SkillsBuild
+
 
 ---
 ## 📫 Connect With Me
