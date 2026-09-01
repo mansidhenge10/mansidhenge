@@ -87,12 +87,11 @@ Explore my experience, technical skills, projects, education, and certifications
 
 01. Auto Code Reviewer
 AI-powered code review application that analyzes source code, detects potential issues, explains errors, and provides improvement suggestions using LLMs, NLP, Hugging Face, and FastAPI.
-🔗 **Repository:** Coming Soon
+🔗 **Repository:** (https://github.com/mansidhenge10/AI-PROJECTS.git)
 
 3. AI Interview Mistake Analyzer
 AI-powered interview preparation tool that analyzes text and voice answers using Whisper, NLP, TF-IDF, similarity analysis, concept coverage, and Llama 3.2 to provide actionable interview feedback.
-
-🔗 **Repository:** Coming Soon
+🔗 **Repository:** (https://github.com/mansidhenge10/AI-PROJECTS.git)
 
 ---
 
