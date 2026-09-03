@@ -41,12 +41,6 @@ Explore my experience, technical skills, projects, education, and certifications
 
 ## 🛠️ Tech Stack
 
-### 🌐 Full Stack Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,nodejs,express,fastapi,mongodb,postgres&perline=10"/>
-</p>
-
 ---
 
 ### 🤖 AI & Machine Learning
