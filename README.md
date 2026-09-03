@@ -38,6 +38,12 @@ Building practical AI applications and continuously learning how to design, deve
 <p align="center">
 Explore my experience, technical skills, projects, education, and certifications.
 </p>
+## 🌐 Portfolio
+
+Explore my **AI Engineering portfolio**, featuring my projects, technical skills, and AI/ML work.
+
+🔗 **[View My Portfolio](YOUR_PORTFOLIO_LINK)**
+
 
 ## 🛠️ Tech Stack
 
