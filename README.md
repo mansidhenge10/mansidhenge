@@ -62,19 +62,17 @@ Explore my experience, technical skills, projects, education, and certifications
 
 <p> <img src="https://skillicons.dev/icons?i=fastapi,react,tailwind,git,github,vscode,postman" /> </p>
 
+### 🤖 AI Engineering — Learned
 
-## 📚 Currently Learning
+* 🐍 **Python** — Advanced Python, OOP, DSA
+* 📊 **Machine Learning** — Regression, Classification, Clustering, Feature Engineering, Model Evaluation
+* 🧠 **Deep Learning** — Neural Networks, CNN, RNN, Activation Functions, Backpropagation, PyTorch
+* 📝 **NLP** — Text Preprocessing, Tokenization, TF-IDF, Embeddings, Text Classification
+* ✨ **Generative AI** — LLMs, Prompt Engineering, Embeddings, LLM APIs
+* 🔎 **RAG** — Vector Databases, Semantic Search, Retrieval-Augmented Generation, LangChain
+* 🤖 **AI Agents** — Agentic Workflows, Tool Calling, Multi-Agent Systems
+* ⚙️ **AI Engineering** — FastAPI, REST APIs, Docker, Git, MLOps
 
-- ✅ MERN Stack
-- ✅ Advanced Python
-- ✅ Data Structures & Algorithms
-- ✅ Object-Oriented Programming
-- 🔄 Machine Learning
-- 🔄 Deep Learning
-- 🔄 PyTorch
-- 🔄 Generative AI
-- 🔄 RAG & AI Agents
-- 🔄 MLOps
 ---
 
 ## 🚀 Featured Projects
